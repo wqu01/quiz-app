@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wqu01/quiz-app.git/static/css/main.ddd319b6.chunk.css",
+    "main.js": "/wqu01/quiz-app.git/static/js/main.bcc67c80.chunk.js",
+    "main.js.map": "/wqu01/quiz-app.git/static/js/main.bcc67c80.chunk.js.map",
+    "runtime-main.js": "/wqu01/quiz-app.git/static/js/runtime-main.333234a5.js",
+    "runtime-main.js.map": "/wqu01/quiz-app.git/static/js/runtime-main.333234a5.js.map",
+    "static/js/2.b8719b33.chunk.js": "/wqu01/quiz-app.git/static/js/2.b8719b33.chunk.js",
+    "static/js/2.b8719b33.chunk.js.map": "/wqu01/quiz-app.git/static/js/2.b8719b33.chunk.js.map",
+    "index.html": "/wqu01/quiz-app.git/index.html",
+    "precache-manifest.ed38ff5e91cc27dd71ce1dbc8d802970.js": "/wqu01/quiz-app.git/precache-manifest.ed38ff5e91cc27dd71ce1dbc8d802970.js",
+    "service-worker.js": "/wqu01/quiz-app.git/service-worker.js",
+    "static/css/main.ddd319b6.chunk.css.map": "/wqu01/quiz-app.git/static/css/main.ddd319b6.chunk.css.map",
+    "static/js/2.b8719b33.chunk.js.LICENSE.txt": "/wqu01/quiz-app.git/static/js/2.b8719b33.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.333234a5.js",
+    "static/js/2.b8719b33.chunk.js",
+    "static/css/main.ddd319b6.chunk.css",
+    "static/js/main.bcc67c80.chunk.js"
+  ]
+}
